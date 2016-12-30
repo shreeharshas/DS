@@ -1,0 +1,4 @@
+dist/
+build/
+buildAndUpdate.sh
+docs/
